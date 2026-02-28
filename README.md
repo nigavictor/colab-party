@@ -10,7 +10,7 @@
 - Pauline
 - Serena
 - Monsuer Luk
-- Victor
+- [Victor](https://github.com/nigavictor)
 - Suzan
 - Victor
 - Alvin
